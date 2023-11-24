@@ -1,0 +1,25 @@
+﻿.about-us-content {
+    margin: 20px auto;
+    padding: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.about-us-text, .creator {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.creator img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.caption {
+    margin-top: 10px;
+    font-style: italic;
+}
+
